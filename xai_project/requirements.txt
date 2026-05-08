@@ -1,10 +1,10 @@
 pandas
 numpy
-matplotlib
-seaborn
 scikit-learn
+xgboost
 shap
 lime
-streamlit
-joblib
-jupyter
+plotly
+matplotlib
+seaborn
+kaleido
