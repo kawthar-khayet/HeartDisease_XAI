@@ -1,0 +1,5 @@
+Modèle,Train Score,Test Score,Accuracy,Precision,Recall,F1-Score
+XGBoost,93.60%,85.87%,85.87%,87.38%,87.38%,87.38%
+Random Forest,99.86%,84.78%,84.78%,85.71%,87.38%,86.54%
+Decision Tree,100.00%,76.63%,76.63%,78.85%,79.61%,79.23%
+SVC,55.18%,55.98%,55.98%,55.98%,100.00%,71.78%

@@ -1,0 +1,12 @@
+Feature,SHAP moyen
+ST_Slope,1.3397406
+ChestPainType,0.7844541
+Cholesterol,0.49207592
+ExerciseAngina,0.40453583
+Sex,0.3457915
+Oldpeak,0.33550993
+FastingBS,0.31746
+Age,0.24491182
+MaxHR,0.19792762
+RestingBP,0.14975457
+RestingECG,0.0583858
